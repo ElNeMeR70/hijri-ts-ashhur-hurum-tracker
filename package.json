@@ -1,0 +1,11 @@
+{
+  "name": "hijri-ts-ashhur-hurum-tracker",
+  "version": "1.0.0",
+  "description": "Sacred Months (Al-Ashhur Al-Hurum) & Ayyam Al-Beed Alert Engine (متتبع الأشهر الحرم والأيام البيض والمواسم الفاضلة)",
+  "main": "main.ts",
+  "scripts": {
+    "start": "npx ts-node main.ts"
+  },
+  "author": "Mahmoud ElNemer",
+  "license": "MIT"
+}
